@@ -1,0 +1,6 @@
+sku_id,product_name,current_stock,forecasted_demand_7d,safety_stock,reorder_point,suggested_order_qty,priority
+SKU-1001,Wireless Mouse (1001),42,350,55,405,500,CRITICAL
+SKU-1005,Organic Coffee (1005),850,980,120,1100,1200,REORDER
+SKU-1009,Wool Socks (1009),45,32,15,47,0,STABLE
+SKU-1012,Monitor Stand (1012),12,145,28,173,200,CRITICAL
+SKU-1015,Soy Candle (1015),410,210,45,255,0,OVERSTOCK

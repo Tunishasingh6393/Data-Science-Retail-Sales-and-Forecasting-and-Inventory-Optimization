@@ -1,0 +1,25 @@
+{
+  "model_type": "RandomForestRegressor",
+  "version": "1.0.2",
+  "training_date": "2024-04-15",
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 12,
+    "min_samples_split": 5,
+    "random_state": 42
+  },
+  "performance_metrics": {
+    "mae": 12.45,
+    "rmse": 18.21,
+    "mase": 0.84,
+    "r2_score": 0.91
+  },
+  "features_importance": {
+    "lag_1": 0.45,
+    "lag_7": 0.25,
+    "rolling_mean_7": 0.15,
+    "day_of_week": 0.10,
+    "month": 0.05
+  },
+  "status": "PRODUCTION_READY"
+}

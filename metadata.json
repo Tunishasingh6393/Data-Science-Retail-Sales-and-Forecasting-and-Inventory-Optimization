@@ -1,0 +1,6 @@
+{
+  "name": "Retail Forecast & Inventory Optimizer",
+  "description": "An industry-grade system for demand forecasting using machine learning and inventory replenishment optimization (ROP, EOQ, Safety Stock).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
